@@ -6,7 +6,7 @@ import StatusCard from "../components/StatusCard";
 export default function HomePage() {
   return (
     <ScrollView style={{ flex: 1, padding: 10 }}>
-      <Text style={styles.heading}>ယနေ့ အခြေအနေ</Text>
+      <Text style={styles.heading}>ယနေ့ မြစ်ရေ အခြေအနေ</Text>
       <ChartComponent />
 
       <View style={{ marginTop: 20, gap: 10 }}>
